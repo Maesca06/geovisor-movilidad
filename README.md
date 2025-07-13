@@ -1,6 +1,6 @@
-# geovisor-comuna19
+# geovisor-movilidad-comuna19
 Visor web de datos base y temáticos para la Comuna 19 de Santiago de Cali.
-# 🌍 Geovisor Comuna 19 - Santiago de Cali
+# 🌍 Geovisor Movilidad Comuna 19 - Santiago de Cali
 
 Este repositorio contiene el desarrollo de un visor geográfico web enfocado en la Comuna 19 de Santiago de Cali, como parte del Taller 3 del curso SIG Web y Móvil.
 
