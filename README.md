@@ -32,8 +32,8 @@ Desarrollar un visor interactivo que integre capas temáticas y base relacionada
 
 ## 🔗 Enlaces
 
-- Visor Web: (https://maesca06.github.io/geovisor-movilidad/)
-- Repositorio: https://github.com/tu_usuario/geovisor-comuna19
+- Visor Web: https://maesca06.github.io/geovisor-movilidad/
+- Repositorio: https://github.com/tu_usuario/geovisor-comuna19](https://github.com/Maesca06/geovisor-movilidad.git
 
 ## 📄 Estado actual
 
