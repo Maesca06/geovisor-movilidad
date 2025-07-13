@@ -32,13 +32,13 @@ Desarrollar un visor interactivo que integre capas temáticas y base relacionada
 
 ## 🔗 Enlaces
 
-- Visor Web: *[por publicar]*
+- Visor Web: (https://maesca06.github.io/geovisor-movilidad/)
 - Repositorio: https://github.com/tu_usuario/geovisor-comuna19
 
 ## 📄 Estado actual
 
-- [ ] Definición de la comuna y temática
-- [ ] Búsqueda de capas base y temáticas
-- [ ] Configuración del servidor y base de datos
-- [ ] Diseño del visor
-- [ ] Publicación web
+- [✅] Definición de la comuna y temática
+- [✅] Búsqueda de capas base y temáticas
+- [✅] Configuración del servidor y base de datos
+- [✅] Diseño del visor
+- [✅] Publicación web
